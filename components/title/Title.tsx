@@ -5,7 +5,7 @@ const Title = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: serif;
+  font-family: "Noto Serif JP", serif;
   top: 0;
   left: 0;
   width: 100vw;
